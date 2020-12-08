@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Praktikum Modul 10</string>
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="prioritas">Prioritas:</string>
+    <string name="_1">1</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus_semua_catatan">Hapus Semua Catatan</string>
+
+</resources>
